@@ -1,5 +1,3 @@
-# Jogo-da-forca-em-Python
+Curso-de-Python
 
-Jogo da forca, caso queira, é possível trocar o nome da palavra secreta na variável "palavra_secreta".
-
-Foi utilizado um conhecimento básico da linguagem, o objetivo maior nesse caso, foi treinar lógica de programação.
+Repositório das aulas do curso de Python, ministrado pelo professor Otávio Miranda, na plataforma Udemy.
